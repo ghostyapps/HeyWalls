@@ -1,0 +1,5 @@
+{
+  "name": "HeyWalls",
+  "description": "AI-powered vertical wallpaper generator for mobile devices using Gemini Nano Banana.",
+  "requestFramePermissions": []
+}
